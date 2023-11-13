@@ -1,0 +1,60 @@
+.nav {
+color: black;
+padding-bottom: 2vh;
+font-size: 2.5vh;
+padding-right: 5vh;
+}
+
+.navbar{
+display: flex;
+list-style-type: none;
+justify-content: flex-end;
+margin-right: 1vh;
+padding-top: 1vh;
+position: relative;
+}
+
+.logo{
+position: absolute;
+left: 50%;
+height: 10rem;
+top: -6vh;
+}  
+
+.tab{
+    padding-left: 3vh;
+    display: block;
+}
+
+.tab:hover{
+    color: rgb(180, 76, 111);
+}
+
+a:link { /* Essentially means a[href], or that the link actually goes somewhere */
+color: blue;
+text-decoration: none;
+cursor: pointer;
+}
+
+a:visited {
+color: black;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: none;
+}
+
+a:active {
+text-decoration: none
+}
+
+.drop-down li{
+    list-style-type: none;
+    border-bottom: 2px solid black;
+    margin-left: -5vh;
+    padding: 2vh;
+}
+.drop-down li:hover{
+    color: black;
+}
