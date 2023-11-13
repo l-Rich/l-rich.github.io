@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.870f2eb3.css",
+    "main.js": "/static/js/main.546c7577.js",
+    "static/media/profile.png": "/static/media/profile.a90292b5d3b8d6325d26.png",
+    "static/media/budgetapplogo.png": "/static/media/budgetapplogo.1b06935b7c45fb78a63e.png",
+    "static/media/LLRResume.png": "/static/media/LLRResume.5973a1eb11a3d2b1cd89.png",
+    "static/media/mocktailslogo.png": "/static/media/mocktailslogo.2b7b4c328344ece99ec4.png",
+    "static/media/lampapp.png": "/static/media/lampapp.16811481551f9217e1b6.png",
+    "static/media/circlechatlogo.png": "/static/media/circlechatlogo.08b518e724c0b23aa9c2.png",
+    "static/media/LR.png": "/static/media/LR.a6e364e7f0b3a55c161b.png",
+    "index.html": "/index.html",
+    "main.870f2eb3.css.map": "/static/css/main.870f2eb3.css.map",
+    "main.546c7577.js.map": "/static/js/main.546c7577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870f2eb3.css",
+    "static/js/main.546c7577.js"
+  ]
+}
